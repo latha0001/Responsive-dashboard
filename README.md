@@ -56,6 +56,7 @@ npm run dev  # or yarn dev
 ```
 
 Open `http://localhost:5173` in your browser to view the app.
+
 deploy link : https://friendly-alfajores-f8e5b4.netlify.app/
 
 ##  Project Structure
