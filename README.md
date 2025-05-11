@@ -83,7 +83,9 @@ Responsive-dashboard/
 
   Command           Description                    
  `npm run dev`      Start local development server 
- `npm run build`    Build for production           
+ 
+ `npm run build`    Build for production       
+ 
  `npm run preview`  Preview the production build   
 
 ##  Future Enhancements
